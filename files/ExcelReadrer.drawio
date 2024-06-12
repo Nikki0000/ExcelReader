@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" modified="2024-06-11T10:21:46.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="npa_MAzqVmf-8zZls9CZ" version="24.5.2" type="device">
+  <diagram name="Страница — 1" id="Thi9hPM8hP3XWCTX5rDp">
+    <mxGraphModel dx="2123" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TAfKT55fyafpBSRyJVl7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="470" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-2" value="&lt;b&gt;ExcelFile&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="90" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="135" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-4" value="Вкладка&lt;br&gt;Questionnaire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-5" value="Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="145" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-6" value="CustonType" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-9" value="value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="175" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-10" value="value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="175" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="135" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-13" value="Вкладка&lt;br&gt;Question" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-14" value="Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="145" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-15" value="QuestionType" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-16" value="value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="175" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-17" value="value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="175" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="80" width="710" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-19" value="Program" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-23" value="parametrs:&lt;br&gt;&lt;br&gt;path = self.path&lt;div&gt;sheet = self.sheet&lt;/div&gt;&lt;div&gt;column = self.column&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="155" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-20" value="&lt;b&gt;ExcelFile&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="170" width="114" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="470" width="380" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-21" value="&lt;b&gt;DBQuery&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="480" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-25" value="1. Прочитать файл - self.df - сохранил&lt;div&gt;2. Записать в промежуточный файл&lt;br&gt;3. Отдать self.df (в консоль)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="320" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-26" value="&lt;b&gt;Параметризуются вкладками/колонками/строками&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="290" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-27" value="query: select/insert/update&lt;br&gt;&lt;br&gt;Передаются параметры - @parametrs&lt;br&gt;&lt;br&gt;Если на входе несколько parametrs - размножить query" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="435" width="470" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-28" value="DBQuery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-30" value="Class - ExcelFile&lt;br&gt;&lt;br&gt;Ответственность: считывание данных из excel файла" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="810" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-31" value="Class - DataBaseHandler&lt;br&gt;&lt;br&gt;Ответственность: Выполнение запросов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="920" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAfKT55fyafpBSRyJVl7-32" target="TAfKT55fyafpBSRyJVl7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-32" value="file.xlsx" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="125" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAfKT55fyafpBSRyJVl7-35" target="TAfKT55fyafpBSRyJVl7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-35" value="return List&amp;lt;Value&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="360" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAfKT55fyafpBSRyJVl7-23" target="TAfKT55fyafpBSRyJVl7-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="410" as="sourcePoint" />
+            <mxPoint x="1110" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-40" value="Описание&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Читаем excel файл&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Получаем значения в List, используя параметры: file, sheet, column&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Формируем select по {sheet}&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Создаем новый файл с подставленными параметрами из select&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="105" width="320" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-41" value="SelectQuery&lt;br&gt;&lt;br&gt;parametrs:&lt;br&gt;sheet = select_table&lt;br&gt;values = List&amp;lt;Value&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1182.5" y="640" width="235" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-43" value="Connect&lt;br&gt;&lt;br&gt;parametrs:&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CUserObject%20label%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%20font-family%3A%20Helvetica%3B%20font-size%3A%2012px%3B%20font-style%3A%20normal%3B%20font-variant-ligatures%3A%20normal%3B%20font-variant-caps%3A%20normal%3B%20font-weight%3A%20400%3B%20letter-spacing%3A%20normal%3B%20orphans%3A%202%3B%20text-align%3A%20center%3B%20text-indent%3A%200px%3B%20text-transform%3A%20none%3B%20widows%3A%202%3B%20word-spacing%3A%200px%3B%20-webkit-text-stroke-width%3A%200px%3B%20white-space%3A%20normal%3B%20background-color%3A%20rgb(251%2C%20251%2C%20251)%3B%20text-decoration-thickness%3A%20initial%3B%20text-decoration-style%3A%20initial%3B%20text-decoration-color%3A%20initial%3B%20display%3A%20inline%20!important%3B%20float%3A%20none%3B%26quot%3B%26gt%3Bconnect%20%3D%20db.name%26lt%3B%2Fspan%26gt%3B%22%20link%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%20font-family%3A%20Helvetica%3B%20font-size%3A%2012px%3B%20font-style%3A%20normal%3B%20font-variant-ligatures%3A%20normal%3B%20font-variant-caps%3A%20normal%3B%20font-weight%3A%20400%3B%20letter-spacing%3A%20normal%3B%20orphans%3A%202%3B%20text-align%3A%20center%3B%20text-indent%3A%200px%3B%20text-transform%3A%20none%3B%20widows%3A%202%3B%20word-spacing%3A%200px%3B%20-webkit-text-stroke-width%3A%200px%3B%20white-space%3A%20normal%3B%20background-color%3A%20rgb(251%2C%20251%2C%20251)%3B%20text-decoration-thickness%3A%20initial%3B%20text-decoration-style%3A%20initial%3B%20text-decoration-color%3A%20initial%3B%20display%3A%20inline%20!important%3B%20float%3A%20none%3B%26quot%3B%26gt%3Bconnect%20%3D%20db.name%26lt%3B%2Fspan%26gt%3B%22%20id%3D%222%22%3E%3CmxCell%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221710%22%20y%3D%22620%22%20width%3D%22140%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2FUserObject%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;connect = db.name&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1182.5" y="530" width="235" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-45" value="InsertQuery&lt;br&gt;&lt;br&gt;parametrs:&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1182.5" y="750" width="235" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TAfKT55fyafpBSRyJVl7-46" value="UpdateQuery&lt;br&gt;&lt;br&gt;parametrs:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1182.5" y="860" width="235" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
