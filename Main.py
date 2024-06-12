@@ -31,9 +31,6 @@ if __name__ == "__main__":
         print(f"Data saved to {output_file}")
 
 
-# excel_file('Обратиться к вкладке 1')
-# excel_file('Обратиться к вкладке 2')
-
 
 
 
